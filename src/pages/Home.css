@@ -1,0 +1,11 @@
+.home .card {
+  padding: 20px;
+  border: 1px solid #5B5C5D;
+  border-radius: 4px;
+  box-shadow: 10px 10px 10px rgba(9, 9, 9, 0.25);
+  margin-bottom: 20px;
+}
+
+.link {
+  color: #7890DF;
+}
