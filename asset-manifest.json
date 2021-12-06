@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-deploy-multi-page-temp/static/css/main.fb2fb9f0.chunk.css",
+    "main.js": "/react-deploy-multi-page-temp/static/js/main.f42b2ca7.chunk.js",
+    "main.js.map": "/react-deploy-multi-page-temp/static/js/main.f42b2ca7.chunk.js.map",
+    "runtime-main.js": "/react-deploy-multi-page-temp/static/js/runtime-main.e93b3aab.js",
+    "runtime-main.js.map": "/react-deploy-multi-page-temp/static/js/runtime-main.e93b3aab.js.map",
+    "static/js/2.f2e23caa.chunk.js": "/react-deploy-multi-page-temp/static/js/2.f2e23caa.chunk.js",
+    "static/js/2.f2e23caa.chunk.js.map": "/react-deploy-multi-page-temp/static/js/2.f2e23caa.chunk.js.map",
+    "index.html": "/react-deploy-multi-page-temp/index.html",
+    "static/css/main.fb2fb9f0.chunk.css.map": "/react-deploy-multi-page-temp/static/css/main.fb2fb9f0.chunk.css.map",
+    "static/js/2.f2e23caa.chunk.js.LICENSE.txt": "/react-deploy-multi-page-temp/static/js/2.f2e23caa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e93b3aab.js",
+    "static/js/2.f2e23caa.chunk.js",
+    "static/css/main.fb2fb9f0.chunk.css",
+    "static/js/main.f42b2ca7.chunk.js"
+  ]
+}
